@@ -1,7 +1,9 @@
 <h1 align="center"><code>&#60/Capelleto&#62;</code></h1>
 
-I am a student at IFRO Vilhena and passionate about programming.  
-I love learning new technologies and building amazing projects!
+<p align="center">
+  I am a <strong>student</strong> at <em>IFRO Vilhena</em> and <strong>passionate about programming</strong>.<br>
+  I love <span style="color:#61dafb;"><em>learning new technologies</em></span> and <strong>building amazing projects!</strong>
+</p>
 
 
 ---
