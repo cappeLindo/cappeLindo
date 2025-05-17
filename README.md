@@ -1,4 +1,4 @@
-<h1 align="center">&lt;/capelleto&gt;</h1>
+<h1 align="center"><code>capelleto</code></h1>
 
 ### 💻 Tecnologias que eu uso
 
