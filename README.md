@@ -24,10 +24,14 @@ I love learning new technologies and building amazing projects!
 
 ---
 
-### 📬 Contact
+### 📬 <div align="center">Connect Me</div>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@exemplo.com)](mailto:vitorcappe@exemplo.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuInstagram)](https://www.instagram.com/capelleto_/?next=%2F)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vitorcappe@exemplo.com)](mailto:vitorcappe@exemplo.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/capelleto_/?next=%2F)](https://www.instagram.com/capelleto_/?next=%2F)
+
+</div>
 
 ---
 
