@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
 <div align="center">
-  <img src="https://www.pngkey.com/detail/u2w7e6i1u2y3i1u2_pokemon-caterpie-pixel-art-caterpie-pixel-art/" alt="Caterpie Pixel Art" width="120" />
+  <img src="https://archives.bulbagarden.net/media/upload/5/5e/Spr_5b_010.png" alt="Caterpie Pixel Art" width="120" />
+</div>
 </div>
 
 ---
