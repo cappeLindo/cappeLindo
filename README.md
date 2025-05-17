@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+código" alt="Typing SVG" />
+  <img src="https://www.pngmart.com/files/22/Caterpie-Pokemon-Transparent-PNG.png" alt="Caterpie" width="200"/>
 </div>
 
 ---
