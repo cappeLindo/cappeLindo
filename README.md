@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
 <div align="center">
-  <img src="https://archives.bulbagarden.net/media/upload/5/5e/Spr_5b_010.png" alt="Caterpie Pixel Art" width="120" />
+  <img src="https://www.pngplay.com/image/243300" alt="Caterpie Pixel Art" width="120" />
 </div>
 
 ---
