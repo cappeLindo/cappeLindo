@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
 <div align="center">
-  <img src="https://www.pngplay.com/image/243300" alt="Caterpie Pixel Art" width="120" />
+  <img src="https://www.pngkey.com/detail/u2w7e6i1u2y3i1u2_pokemon-caterpie-pixel-art-caterpie-pixel-art/" alt="Caterpie Pixel Art" width="120" />
 </div>
 
 ---
