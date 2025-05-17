@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Cappe! 👋</h1>
+<h1 align="center">&lt;/capelleto&gt;</h1>
 
 ### 💻 Tecnologias que eu uso
 
