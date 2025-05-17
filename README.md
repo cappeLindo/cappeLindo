@@ -26,8 +26,8 @@ I love learning new technologies and building amazing projects!
 
 ### 📬 Contact
 
-- 📧 Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-- 📸 Instagram: [@seuInstagram](https://instagram.com/seuInstagram)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@exemplo.com)](mailto:vitorcappe@exemplo.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuInstagram)](https://www.instagram.com/capelleto_/?next=%2F)
 
 ---
 
