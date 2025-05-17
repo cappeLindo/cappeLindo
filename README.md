@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
 <div align="center">
-  <img src="https://www.pngmart.com/files/22/Caterpie-Pokemon-Transparent-PNG.png" alt="Caterpie" width="200"/>
+  <img src="https://www.pngplay.com/wp-content/uploads/12/Caterpie-Pokemon-Art-Character-Illustration-PNG.png" alt="Caterpie Pokémon" width="300"/>
 </div>
 
 ---
