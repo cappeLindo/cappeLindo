@@ -1,10 +1,5 @@
 <h1 align="center">Olá, eu sou o Cappe! 👋</h1>
 
-
-</div>
-
----
-
 ### 💻 Tecnologias que eu uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
