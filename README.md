@@ -25,7 +25,7 @@ I love learning new technologies and building amazing projects!
 ---
 
 ### 📬 Contact
-<div align="center"><code>Connect Me</code></div>
+<div align="center"><h2><code>Connect Me</code></h2></div>
 
 <div align="center">
 
