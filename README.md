@@ -31,10 +31,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vitorcappe@exemplo.com)](mailto:vitorcappe@exemplo.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vitorcappe@exemplo.com)](mailto:vitorcappe@exemplo.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/capelleto_/?next=%2F)](https://www.instagram.com/capelleto_/?next=%2F)
 
 </div>
-
 ---
 
