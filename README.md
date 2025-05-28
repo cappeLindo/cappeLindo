@@ -1,5 +1,10 @@
 <h1 align="center"><code>&#60/Capelleto&#62;</code></h1>
-## Tecnologias que domino
+
+<p align="center">
+  I am a <strong>student</strong> at <em>IFRO Vilhena</em> and <strong>passionate about programming</strong>.<br>
+  I love <span style="color:#61dafb;"><em>learning new technologies</em></span> and <strong>building amazing projects!</strong>
+</p>
+
 
 ---
 
@@ -30,5 +35,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/capelleto_/?next=%2F)](https://www.instagram.com/capelleto_/?next=%2F)
 
 </div>
-
-
